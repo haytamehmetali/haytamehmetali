@@ -1,6 +1,6 @@
 <h1 align="center"> I ❤ ELECTRONICS</h1>
-
 <h1 align="center">Hi 👋, I'm Mehmet Ali HAYTA</h1>
+
 <h3 align="center">Hardware Design Engineer / Digital Design Engineer</h3>
 
 <h3 align="left">CONNECT:</h3> <h3 align="right">LANGUAGES&TOOLS:</h3>
