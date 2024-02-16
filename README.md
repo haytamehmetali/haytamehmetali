@@ -3,7 +3,7 @@
 
 <h3 align="center">Hardware Design Engineer / Digital Design Engineer</h3>
 
-<h3 align="left">CONNECT:</h3> <h3 align="right">LANGUAGES&TOOLS:</h3>
+<h3 align="left">CONNECT:  <h3 align="right">LANGUAGES&TOOLS:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mehmet-ali-hayta-645646217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mehmet-ali-hayta-645646217" height="30" width="40" /></a>
 <a href="https://medium.com/@haytamehmetali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@haytamehmetali" height="30" width="40" /></a>
