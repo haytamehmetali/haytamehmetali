@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Ali HAYTA</h1>
 <h3 align="center">Hardware Design Engineer / Digital Design Engineer</h3>
 
-<h5 align="left"> an engineer interested in technology </h5>
+<h5 align="left"> I’m interested in electronic technology, communication technology, information technologies, cloud technologies and DevOps.  </h5>
 
 <h3 align="right">CONNECT</h3>  
 <p align="right">
