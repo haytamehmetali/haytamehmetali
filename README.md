@@ -1,7 +1,7 @@
 <h1 align="center"> <strong> HI 👋, I'm MEHMET ALI HAYTA </strong></h1>
 <h3 align="center"> HARDWARE & DIGITAL DESIGN ENGINEER </h3>
 
-<h4 align="left"> I graduated from Gazi University, Department of Electrical and Electronics Engineering. 
+<h4 align="left"> - I graduated from Gazi University, Department of Electrical and Electronics Engineering. 
 <p> - I’m interested in electronic technology, information & communication technologies, cloud technologies and DevOps. 
 <p> - I' m an engineer open to improvement .
 <p> - Throughout my university education, I have taken active roles in various communities and non-governmental organisations. 
