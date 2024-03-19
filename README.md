@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehmet Ali HAYTA</h1>
+<h1 align="center"> <strong> HI 👋, I'm MEHMET ALI HAYTA </strong></h1>
 <h3 align="center">Hardware Design Engineer / Digital Design Engineer</h3>
 
 <h4 align="left"> I graduated from Gazi University, Department of Electrical and Electronics Engineering. 
