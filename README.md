@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mehmet Ali HAYTA</h1>
 <h3 align="center">Hardware Design Engineer / Digital Design Engineer</h3>
 
-<h4 align="left"> I graduated from Gazi University, Department of Electrical and Electronics Engineering. I’m interested in electronic technology, information & communication technologies, cloud technologies and DevOps. I follow and research technologies and innovations Throughout my university education, I have taken active roles in various communities and non-governmental organisations. These roles have given me the skills of teamwork, flexible working, project management, responsibility, problem solving, analytical thinking and risk taking.
-<p
+<h4 align="left"> I graduated from Gazi University, Department of Electrical and Electronics Engineering. I’m interested in electronic technology, information & communication technologies, cloud technologies and DevOps. I follow and research technologies and innovations Throughout my university education, I have taken active roles in various communities and non-governmental organisations. These roles have given me the skills of teamwork, flexible working, project management, responsibility, problem solving, analytical thinking and risk taking.  </h4>
+<p>
+  <h4> 
 Skills: Electronics Hardware Design | Digital Hardware Design | Embedded Systems | Cloud Technologies | DevOps  </h4>
 
 <h3 align="right">CONNECT</h3>  
