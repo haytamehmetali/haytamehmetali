@@ -17,14 +17,8 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/H/hibernate-logo-3C160F7C3B-seeklogo.com.png" alt="hibernate" width="40" height="40"/>
-  </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="rest api" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
