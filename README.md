@@ -1,14 +1,7 @@
 <h1 align="center"> <strong> HI 👋, I'm MEHMET ALI HAYTA </strong></h1>
-<h3 align="center"> HARDWARE & DIGITAL DESIGN ENGINEER </h3>
+<h3 align="center"> SOFTWARE DEVELOPER - JAVA  </h3>
 
-<h4 align="left"> <p> - I graduated from Gazi University, Department of Electrical and Electronics Engineering. 
-<p> - I’m interested in electronic technology, information & communication technologies, cloud technologies and DevOps. 
-<p> - I' m an engineer open to improvement .
-<p> - Throughout my university education, I have taken active roles in various communities and non-governmental organisations. 
-<p> - These roles have given me the skills of teamwork, flexible working, project management, responsibility, problem solving, analytical thinking and risk taking.  </h4>
-<p>
-  <h4> 
-Skills: Electronics Hardware Design | Digital Hardware Design | Embedded Systems | Cloud Technologies | DevOps  </h4>
+<h4 align="left"> Skills: Java | PostgreSQL | Hibernate | Spring | REST API | HTML | CSS | JavaScript </h4>
 
 <h3 align="right">CONNECT</h3>  
 <p align="right">
