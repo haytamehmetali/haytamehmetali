@@ -1,4 +1,4 @@
-<h1 align="center"> <strong> HI 👋, I'm MEHMET ALI HAYTA </strong></h1>
+<h1 align="center"> <strong> Hi 👋, I'm MEHMET ALI HAYTA </strong></h1>
 <h3 align="center"> SOFTWARE DEVELOPER - JAVA  </h3>
 
 <h3 align="left">CONNECT</h3>  
